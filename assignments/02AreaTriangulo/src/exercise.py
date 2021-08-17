@@ -6,5 +6,6 @@ def main():
     area = (h * b)/2
 
     print("El área es: "+ str (area))
+    
 if __name__ == '__main__':
     main()
