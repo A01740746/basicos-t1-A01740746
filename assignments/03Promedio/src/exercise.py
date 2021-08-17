@@ -5,9 +5,9 @@ def main():
     Materia3 = float(input("Calificación de la materia: "))
     Materia4 = float(input("Calificación de la materia: "))
     
-    Promedio = (Materia1 + Materia2 + Materia3 + Materia4)/4
+    promedio = (Materia1 + Materia2 + Materia3 + Materia4)/4
 
-    print("El promedio es: " + str(Promedio))
+    print("El promedio es: " + str(promedio))
 
 if __name__ == '__main__':
     main()
